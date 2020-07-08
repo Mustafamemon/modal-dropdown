@@ -1,0 +1,22 @@
+.smtext{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem; 
+}
+.mdtext{
+    margin-top: 1rem;
+    margin-bottom: 1rem; 
+}
+.sm{
+    height:  2.2rem;
+}
+.md{
+    height:  5rem;
+}
+.activelist{
+    background-color: lightgrey;
+}
+.listgroupstyle{
+    height: 28rem; 
+    overflow-y: scroll;
+    cursor:pointer 
+}
