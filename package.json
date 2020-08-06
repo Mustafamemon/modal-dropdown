@@ -1,6 +1,6 @@
 {
   "name": "modal-dropdown",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A simple React component for switching between a label to modal",
   "main": "./build/index.js",
   "scripts": {
